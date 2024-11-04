@@ -1,2 +1,2 @@
 # Demo
-pip install fastapi uvicorn
+pip install fastapi uvicorn Jinja2
