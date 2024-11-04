@@ -1,2 +1,2 @@
 # Demo
-test
+pip install fastapi uvicorn
